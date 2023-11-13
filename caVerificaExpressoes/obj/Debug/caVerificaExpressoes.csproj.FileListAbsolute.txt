@@ -1,0 +1,8 @@
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\caVerificaExpressoes\obj\Debug\caVerificaExpressoes.csproj.AssemblyReference.cache
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\caVerificaExpressoes\obj\Debug\caVerificaExpressoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\caVerificaExpressoes\obj\Debug\caVerificaExpressoes.csproj.CoreCompileInputs.cache
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\caVerificaExpressoes\bin\Debug\caVerificaExpressoes.exe.config
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\caVerificaExpressoes\bin\Debug\caVerificaExpressoes.exe
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\caVerificaExpressoes\bin\Debug\caVerificaExpressoes.pdb
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\caVerificaExpressoes\obj\Debug\caVerificaExpressoes.exe
+C:\Users\Nalu\OneDrive - Universidade Federal de Uberlândia\UFU\POO\caVerificaExpressoes\obj\Debug\caVerificaExpressoes.pdb
